@@ -3,11 +3,11 @@
 Un'applicazione Python interattiva per monitorare il prezzo dei libri online nel tempo.  
 Supporta più prodotti, salva automaticamente lo storico, e visualizza l'andamento dei prezzi in un grafico interattivo.
 
+## 📸 Demo
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pricetracker-db2s7mqmmj5aisxlavy8su.streamlit.app/)
 
 ---
-
-## 📸 Demo
 
 ## 📸 Screenshot
 
