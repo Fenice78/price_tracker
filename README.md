@@ -9,7 +9,10 @@ Supporta più prodotti, salva automaticamente lo storico, e visualizza l'andamen
 
 ## 📸 Demo
 
-<img src="https://via.placeholder.com/800x400?text=Screenshot+App" alt="Screenshot app" width="100%">
+## 📸 Screenshot
+
+![Screenshot dell'app](Screenapp.png)
+
 
 ---
 
