@@ -33,3 +33,7 @@ Supporta più prodotti, salva automaticamente lo storico, e visualizza l'andamen
 ```bash
 git clone https://github.com/Fenice78/price_tracker.git
 cd price_tracker
+
+## 🧾 Licenza
+
+Questo progetto è distribuito con licenza [MIT](LICENSE).
